@@ -20,7 +20,7 @@ The Nessus Parser is a Python script that parses Nessus files and generates CSV 
 3. Run the script using the following command:
 
 ```
-python nessus_parser.py nessus_file_path
+python parser.py nessus_file_path
 
 ```
 
